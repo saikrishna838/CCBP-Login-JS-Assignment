@@ -2,6 +2,7 @@ CCBP Login
 The goal of this coding exam is to quickly get you off the ground with CCBP Login Page
 
 Use the below reference image
+![image alt](https://github.com/saikrishna838/CCBP-Login-JS-Assignment/blob/main/Screenshot%202025-12-26%20134047.png?raw=true)
 
 
 
